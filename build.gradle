@@ -15,3 +15,5 @@ dependencies {
 launch4j {
     mainClassName = 'SwingDemo'
 }
+
+println "https://jenkins.ivt.yarsu.ru/job/2-vharitonov/ws/build/launch4j/2-vharitonov.exe"
